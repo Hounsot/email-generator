@@ -283,8 +283,7 @@ Error generating stack: `+i.message+`
                                       padding-bottom: 0px;
                                       background-color: rgba(217, 217, 217, 1);
                                     "
-                                  >
-                                  </td>
+                                  ></td>
                                 </tr>                
                                 <tr height="20" width="20"></tr>
                                 <tr
@@ -382,8 +381,7 @@ Error generating stack: `+i.message+`
                               padding-bottom: 0px;
                               background-color: rgba(217, 217, 217, 1);
                             "
-                          >
-                          </td>
+                          ></td>
                         </tr>        
                         <tr height="20" width="20"></tr>        
                         <tr
