@@ -283,7 +283,18 @@ Error generating stack: `+i.message+`
                                       padding-bottom: 0px;
                                       background-color: rgba(217, 217, 217, 1);
                                     "
-                                  ><table style="border-collapse:collapse; height:auto; vertical-align:top; width:570px"></table></td>
+                                  >
+                                                      <table
+                      id="Text"
+                      style="
+                        vertical-align: top;
+                        border-collapse: collapse;
+                        table-layout: fixed;
+                        width: 570px;
+                        height: auto;
+                      "
+                    ></table>
+                                  </td>
                                 </tr>                
                                 <tr height="20" width="20"></tr>
                                 <tr
@@ -381,7 +392,18 @@ Error generating stack: `+i.message+`
                               padding-bottom: 0px;
                               background-color: rgba(217, 217, 217, 1);
                             "
-                          ><table style="border-collapse:collapse; height:auto; vertical-align:top; width:570px"></table></td>
+                          >
+                                              <table
+                      id="Text"
+                      style="
+                        vertical-align: top;
+                        border-collapse: collapse;
+                        table-layout: fixed;
+                        width: 570px;
+                        height: auto;
+                      "
+                    ></table>
+                          </td>
                         </tr>        
                         <tr height="20" width="20"></tr>        
                         <tr
@@ -594,10 +616,8 @@ Error generating stack: `+i.message+`
                             <td
                               height="37"
                               style="
-                                padding: 7px 20px;
                                 border-radius: 20px;
                                 display: inline-block;
-                                background-color: #373936;
                                 box-sizing: border-box;
                                 font-family: Arial, sans-serif;
                                 font-weight: Regular;
@@ -605,14 +625,15 @@ Error generating stack: `+i.message+`
                                 line-height: 24px;
                                 text-align: left;
                                 color: #ffffff;
+                                text-align: center !important;
                               "
                               width="170"
                             >
                                                     <a
                               href="https://kuvekino-prom.ru/kupit-sklad-v-novoj-moskve/?utm_source=unisender&amp;utm_medium=email&amp;utm_campaign=build_f"
-                              style="color: #ffffff; text-decoration: none"
+                              style="color: #ffffff; text-decoration: none; padding: 7px 20px; border-radius: 20px; box-sizing: border-box; background-color: #373936; display: inline-block; width: 162px;"
                               target="_blank">
-                                Смотреть видео
+                                Смотреть видео
                                 </a>
                             </td>
                         </tr>
