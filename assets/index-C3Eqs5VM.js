@@ -331,8 +331,8 @@ Error generating stack: `+i.message+`
                             width="556"
                           >
                             <img
-                              src="https://optim.tildacdn.com/tild3330-6533-4161-a436-316437353734/-/format/webp/20240612-161950-00.jpg"
-                              style="width: 570px; height: 373px"
+                              src="https://optim.tildacdn.com/tild6136-3733-4261-b330-386231373831/-/format/webp/BalashihaEmail.png"
+                              style="width: 570px; height: 300px"
                             />
                             <table
                               id="Image Frame Container"
